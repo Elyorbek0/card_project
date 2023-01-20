@@ -1,0 +1,42 @@
+h1{
+   text-align: center;
+}
+
+.big-card{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.image{
+width: 100%;
+filter: grayscale(100%);
+}
+
+.image:hover{
+    filter: none;
+    transition: 1s;
+    }
+
+.card{
+width: 350px;
+box-shadow: 2px 2px 20px;
+}
+
+.text{
+    padding: 10px;
+}
+
+.title{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+
+
+
+
+
+
